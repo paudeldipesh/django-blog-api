@@ -22,5 +22,5 @@ This Django API provides endpoints to manage blog posts. It allows you to create
         "title": "Sample Blog Post",
         "content": "This is the content of the blog post.",
         "published_date": "2024-04-23T11:34:58.357879Z"
-    },
+}
 ```
